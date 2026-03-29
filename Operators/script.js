@@ -22,6 +22,11 @@ console.log(5 === "5");
 console.log(10 != "10");
 console.log(10 !== "10");
 
-// QUES:5
+// QUES:5  //Doubt
 let result = 10 + 5 * 2 ** 2;
 console.log(result);
+
+// QUES:6
+let age = 18;
+let result1 = age >= 18 ? "Adult" : "Minor";
+console.log(result1);
