@@ -29,6 +29,11 @@
 //     };
 // };
 
+//Ques:5 Write a program to print the table of 5
+// for ( let i = 1; i <= 10; i++){
+//     console.log("5 * " + i + " = " + i * 5);
+// };
+
 //FOR IN LOOP
 // Syntax: for (variable in object) {
 //   // code to be executed
