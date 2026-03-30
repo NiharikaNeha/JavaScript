@@ -41,6 +41,13 @@
 // }
 // console.log("The sum of numbes from 1 to 100 is: " + sum);
 
+//Ques:7 Write a program to find the factorial of a number. 
+let num = 5;
+for (let i = num - 1; i > 0; i--){
+    num *= i;
+}
+console.log("The factorial of 5 is: " + num);
+
 //FOR IN LOOP
 // Syntax: for (variable in object) {
 //   // code to be executed
