@@ -49,13 +49,23 @@
 // console.log("The factorial of 5 is: " + num);
 
 //Ques:8 Given a number (e.g., 12345), count how many digits it has using a loop.
-let num = 12345;
-let count = 0;
+// let num = 12345;
+// let count = 0;
+
+// for (; num > 0; num = Math.floor(num / 10)) {
+//     count++;
+// }
+// console.log(count);
+
+//Ques:9 Write a number to reverse a number
+let num = 7075;
+let reverse = 0;
 
 for (; num > 0; num = Math.floor(num / 10)) {
-    count++;
+    let digit = num % 10;
+    reverse = reverse * 10 + digit;
 }
-console.log(count);
+console.log(reverse); 
 
 //FOR IN LOOP
 // Syntax: for (variable in object) {
