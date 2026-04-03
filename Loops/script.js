@@ -55,7 +55,7 @@
 // for (; num > 0; num = Math.floor(num / 10)) {
 //     count++;
 // }
-// console.log(count);
+// console.log(count);  
 
 //Ques:9 Write a number to reverse a number
 let num = 7075;
