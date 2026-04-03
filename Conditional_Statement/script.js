@@ -124,3 +124,5 @@
 // } else {
 //     console.log(`The Smaller is: ${c}`);
 // }
+
+//Ques:12 Check if a character is vowel or consonant
