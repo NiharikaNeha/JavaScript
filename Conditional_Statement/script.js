@@ -105,9 +105,22 @@
 // }
 
 //Ques:10 Check if a number is a multiple of 7.
-let num = 50;
- if (num % 7 === 0){
-    console.log(`${num} is the multiple of 7.`);
- } else {
-    console.log(`${num} is not the multiple of 7.`)
- }
+// let num = 50;
+//  if (num % 7 === 0){
+//     console.log(`${num} is the multiple of 7.`);
+//  } else {
+//     console.log(`${num} is not the multiple of 7.`)
+//  }
+
+//Ques:11 Find the smallest of three numbers
+let a = 75;
+let b = 57;
+let c = 500;
+
+if (a <= b && a <= c) {
+    console.log(`The Smaller is: ${a}`);
+} else if (b <= a && b <= c) {
+    console.log(`The Smaller is: ${b}`);
+} else {
+    console.log(`The Smaller is: ${c}`);
+}
