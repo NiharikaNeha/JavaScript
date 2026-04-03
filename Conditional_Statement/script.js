@@ -40,13 +40,13 @@
 // }
 
 //Ques:5 Assign grade based on marks: (90+ → A, 75–89 → B, 50–74 → C, Below 50 → Fail)
-let mark = 22;
-if (mark >= 89) {
-  console.log("A Grade");
-} else if (mark >= 75) {
-  console.log("Grade B");
-} else if (mark >= 50) {
-  console.log("Grade C");
-} else {
-  console.log("Failed");
-}
+// let mark = 22;
+// if (mark >= 89) {
+//   console.log("A Grade");
+// } else if (mark >= 75) {
+//   console.log("Grade B");
+// } else if (mark >= 50) {
+//   console.log("Grade C");
+// } else {
+//   console.log("Failed");
+// }
