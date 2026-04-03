@@ -92,13 +92,14 @@
 //   console.log(a % b);
 // }
 
-
 //Ques:9 Check if triangle is: (Equilateral, Isosceles, Scalene)
-let a = 1, b = 9, c = 5;
-if (a === b && b === c && c === a) {
-    console.log("Triangle is Equilateral.");
-} else if (a === b || b === c || c === a) {
-    console.log("Triangle is Isosceles.");
-} else {
-    console.log("Triangle is Scalene.");
-}
+// let a = 1,
+//   b = 9,
+//   c = 5;
+// if (a === b && b === c && c === a) {
+//   console.log("Triangle is Equilateral.");
+// } else if (a === b || b === c || c === a) {
+//   console.log("Triangle is Isosceles.");
+// } else {
+//   console.log("Triangle is Scalene.");
+// }
