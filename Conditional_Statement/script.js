@@ -62,3 +62,15 @@
 // } else {
 //     console.log("Neither");
 // }
+
+//Ques:7 Check if a year is a leap year.
+let year = 2007;
+if (year % 400 === 0) {
+  console.log("Leap Year");
+} else if (year % 100 === 0) {
+  console.log("Not a Leap Year");
+} else if (year % 4 === 0) {
+  console.log("Leap Year");
+} else {
+  console.log("Not a Leap year");
+}
