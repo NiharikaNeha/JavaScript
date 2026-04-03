@@ -58,15 +58,11 @@
 // console.log(count);  
 
 //Ques:9 Write a number to reverse a number
-let num = 7075;
-let reverse = 0;
+// let num = 7075;
+// let reverse = 0;
 
-for (; num > 0; num = Math.floor(num / 10)) {
-    let digit = num % 10;
-    reverse = reverse * 10 + digit;
-}
-console.log(reverse); 
-
-//FOR IN LOOP
-// Syntax: for (variable in object) {
-//   // code to be executed
+// for (; num > 0; num = Math.floor(num / 10)) {
+//     let digit = num % 10;
+//     reverse = reverse * 10 + digit;
+// }
+// console.log(reverse); 
