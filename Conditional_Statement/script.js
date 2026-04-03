@@ -27,14 +27,14 @@
 // }
 
 //Ques:4 Find the largest among three numbers.
-let a = 75;
-let b = 77;
-let c = 100;
+// let a = 75;
+// let b = 77;
+// let c = 100;
 
-if (a >= b && a >= c) {
-    console.log("A is greater");
-} else if (b >= c && b >= a) {
-    console.log("B is greater")
-} else {
-    console.log("C is greater");
-}
+// if (a >= b && a >= c) {
+//     console.log("A is greater");
+// } else if (b >= c && b >= a) {
+//     console.log("B is greater")
+// } else {
+//     console.log("C is greater");
+// }
