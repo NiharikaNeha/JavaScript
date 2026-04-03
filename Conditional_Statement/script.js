@@ -74,3 +74,20 @@
 // } else {
 //   console.log("Not a Leap year");
 // }
+
+//Ques:8 Perform operation based on operator.
+let a = 20;
+let b = 10;
+let operator = "+";
+
+if (operator === "+") {
+  console.log(a + b);
+} else if (operator === "-") {
+  console.log(a - b);
+} else if (operator === "*") {
+  console.log(a * b);
+} else if (operator === "/") {
+  console.log(a / b);
+} else {
+  console.log(a % b);
+}
