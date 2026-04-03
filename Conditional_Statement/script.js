@@ -113,14 +113,14 @@
 //  }
 
 //Ques:11 Find the smallest of three numbers
-let a = 75;
-let b = 57;
-let c = 500;
+// let a = 75;
+// let b = 57;
+// let c = 500;
 
-if (a <= b && a <= c) {
-    console.log(`The Smaller is: ${a}`);
-} else if (b <= a && b <= c) {
-    console.log(`The Smaller is: ${b}`);
-} else {
-    console.log(`The Smaller is: ${c}`);
-}
+// if (a <= b && a <= c) {
+//     console.log(`The Smaller is: ${a}`);
+// } else if (b <= a && b <= c) {
+//     console.log(`The Smaller is: ${b}`);
+// } else {
+//     console.log(`The Smaller is: ${c}`);
+// }
