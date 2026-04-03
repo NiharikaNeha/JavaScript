@@ -52,13 +52,13 @@
 // }
 
 //Ques:6 Check if a number is: (divisible by both 3 and 5, only by 3, only by 5, neither)
-let num = 15;
-if (num % 3 === 0 && num % 5 === 0) {
-    console.log("Divisible by both 3 and 5");
-} else if (num % 3 === 0) {
-    console.log("Divisible by 3");
-} else if (num % 5 === 0) {
-    console.log("Divisible by 5");
-} else {
-    console.log("Neither");
-}
+// let num = 15;
+// if (num % 3 === 0 && num % 5 === 0) {
+//     console.log("Divisible by both 3 and 5");
+// } else if (num % 3 === 0) {
+//     console.log("Divisible by 3");
+// } else if (num % 5 === 0) {
+//     console.log("Divisible by 5");
+// } else {
+//     console.log("Neither");
+// }
