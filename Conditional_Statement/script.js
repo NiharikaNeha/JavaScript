@@ -103,3 +103,11 @@
 // } else {
 //   console.log("Triangle is Scalene.");
 // }
+
+//Ques:10 Check if a number is a multiple of 7.
+let num = 50;
+ if (num % 7 === 0){
+    console.log(`${num} is the multiple of 7.`);
+ } else {
+    console.log(`${num} is not the multiple of 7.`)
+ }
