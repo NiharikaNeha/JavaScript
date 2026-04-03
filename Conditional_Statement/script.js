@@ -17,3 +17,11 @@
 // } else {
 //     console.log("The Num Is Zero.")
 // }
+
+//Ques:3 Check if a person is eligible to vote
+let age = 18; 
+if (age > 18) {
+    console.log("Person Can Vote");
+} else {
+    console.log("Person Can't Vote");
+}
